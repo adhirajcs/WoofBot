@@ -1,6 +1,6 @@
 import discord as dc
 import responses as res
-import APIs_keys_urls as aku
+import APIs_keys_url as aku
 
 
 

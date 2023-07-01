@@ -1,7 +1,7 @@
 import discord as dc
 import random
 import requests
-import APIs_keys_urls as aku
+import APIs_keys_url as aku
 
 
 def get_response(message: str) -> str:
