@@ -1,6 +1,6 @@
 import discord as dc
 import responses as res
-import URLandTOKEN as UaT
+import APIs_keys_urls as aku
 
 
 
@@ -19,7 +19,7 @@ async def send_message(message, user_message, is_private):
 
 
 def run_discord_bot():
-    TOKEN = UaT.token
+    TOKEN = aku.token
     intents = dc.Intents.default()
     intents.message_content = True
     client = dc.Client(intents=intents)
