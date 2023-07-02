@@ -26,6 +26,7 @@ WoofBot is a Discord bot created using Python 3.11.3 that provides various comma
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#Author)
 
 ## Commands
 
