@@ -2,21 +2,21 @@
 
 WoofBot is a Discord bot created using Python 3.11.3 that provides various commands to enhance your Discord server experience, including:
 
-● Greeting users
+- Greeting users
 
-● Rolling dice
+- Rolling dice
 
-● Getting quotes
+- Getting quotes
 
-● Getting facts about Chuck Norris
+- Getting facts about Chuck Norris
 
-● Getting weather reports
+- Getting weather reports
 
-● Getting help
+- Getting help
 
-● Getting information about the creator
+- Getting information about the creator
 
-● Listing all of the commands
+- Listing all of the commands
 
 ## Table of Contents
 
