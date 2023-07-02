@@ -58,10 +58,11 @@ Make sure to obtain your own API key and replace the placeholder `{aku.openWeath
 To set up WoofBot on your own server, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/woofbot.git`
-2. Set up the required environment variables:
+2. Install the required dependencies: `pip install discord` and `pip install requests`
+3. Set up the required environment variables:
    - `DISCORD_TOKEN`: Your Discord bot token
    - `OPENWEATHER_API_KEY`: Your OpenWeather API key
-3. Start the bot: `python bot.py`
+4. Start the bot: `python bot.py`
 
 Note: Ensure you have Python 3.6 or higher installed on your system.
 
