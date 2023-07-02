@@ -33,9 +33,10 @@ def get_response(message: str) -> str:
         url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={aku.openWeatherApi}"
         rs = requests.get(url)
         data = rs.json()
+        temp = (data["main"]["temp"]) - 273.15
         icon = f'http://openweathermap.org/img/wn/{data["weather"][0]["icon"]}.png'
         
-        return f'Temp: {data["main"]["temp"]} \nDescription: {data["weather"][0]["description"]} \n{icon}'
+        return f'Temp: {temp:.{4}}°C \nDescription: {data["weather"][0]["description"]} \n{icon}'
 
 
     elif p_message == "#help":
