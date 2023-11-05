@@ -82,6 +82,10 @@ Contributions to WoofBot are welcome! If you have any ideas, suggestions, or bug
 
 WoofBot is not licensed. Therefore you are free to use it.
 
+## Bibliography/Reference
+
+- [The EASIEST Discord Chat Bot Tutorial On The Internet (Python 3.10) 2023](https://youtu.be/1yLfjMtsV9s) by [Indently](https://www.youtube.com/@Indently) - This YouTube tutorial served as the foundational resource for building my WoofBot.
+
 ## Author
 
 [Adhiraj Saha](https://github.com/adhirajcs)
