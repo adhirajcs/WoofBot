@@ -24,7 +24,6 @@ WoofBot is a Discord bot created using Python 3.11.3 that provides various comma
 - [APIs](#apis)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#Author)
 
@@ -74,17 +73,9 @@ To interact with WoofBot, simply type the desired command in a text channel. For
 
 Feel free to explore all the available commands and make the most out of WoofBot!
 
-## Contributing
-
-Contributions to WoofBot are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the [GitHub repository](https://github.com/your-username/woofbot) or submit a pull request with your changes.
-
 ## License
 
-WoofBot is not licensed. Therefore you are free to use it.
-
-## Bibliography/Reference
-
-- [The EASIEST Discord Chat Bot Tutorial On The Internet (Python 3.10) 2023](https://youtu.be/1yLfjMtsV9s) by [Indently](https://www.youtube.com/@Indently) - This YouTube tutorial served as the foundational resource for building my WoofBot.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
